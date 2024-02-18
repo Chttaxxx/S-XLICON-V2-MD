@@ -8,15 +8,15 @@ import axios from 'axios'
 
 global.owner = [
   ['918360234087', 'WHITE', true], 
-  ['233208179431', 'Abraham Dwamena', true],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
-  ['233533763772', 'Abraham Dwamena2', true],
-  ['233531910067', 'Abraham Dwamena3', true],
+  ['233208179431', 'SITHUM', true],
+  ['923184070915', 'PUNCHI ROME -(CHUTTA)', true], 
+  ['94789481495', 'SITHU 𝙺𝙸𝙽𝙶 ⚡', true],
+  ['233533763772', 'SITHUM2', true],
+  ['233531910067', 'SITHUM3', true],
   
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "94755297462" //put your bot number here
 
 global.mods = ['923184070915', '94789481495', '923184474176','233531910067','233208179431'] 
 global.prems = ['923184070915','233208179431','94789481495', '918360234087','233531910067']
@@ -75,7 +75,7 @@ global.dmoji = '🤭'
 global.done = '✔️'
 global.error = '❌' 
 global.xmoji = '🔥' 
-
+global.xmoji = `🤡´
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
 
